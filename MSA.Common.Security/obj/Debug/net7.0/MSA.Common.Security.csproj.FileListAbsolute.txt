@@ -1,0 +1,15 @@
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\bin\Debug\net7.0\MSA.Common.Security.deps.json
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\bin\Debug\net7.0\MSA.Common.Security.dll
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\bin\Debug\net7.0\MSA.Common.Security.pdb
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\bin\Debug\net7.0\MSA.Common.Contracts.dll
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\bin\Debug\net7.0\MSA.Common.Contracts.pdb
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.csproj.AssemblyReference.cache
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.AssemblyInfoInputs.cache
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.AssemblyInfo.cs
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.csproj.CoreCompileInputs.cache
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.csproj.CopyComplete
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.dll
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\obj\Debug\net7.0\refint\MSA.Common.Security.dll
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.pdb
+E:\Github Repositories\Microservices-Fundamentals\MSA.Common.Security\obj\Debug\net7.0\ref\MSA.Common.Security.dll

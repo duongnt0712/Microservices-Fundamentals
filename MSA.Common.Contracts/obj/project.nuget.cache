@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJ7l2//Vz+tdk51NXmC9aOQeT65ov7b5eWH26AASu9rAVF0JhvEqHR6KFiWfK+G+Ju0nLfKPylOdE/FWCQtL0g==",
+  "success": true,
+  "projectFilePath": "E:\\Github Repositories\\Microservices-Fundamentals\\MSA.Common.Contracts\\MSA.Common.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ntduo\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\ntduo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ntduo\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
+    "C:\\Users\\ntduo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\ntduo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ntduo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
